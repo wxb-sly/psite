@@ -1,0 +1,117 @@
+{
+  "profile": {
+    "name": "SARTHAK KARKI",
+    "role": "Undergraduate Researcher | Computational Risk",
+    "tagline": "Stochastic Optimization & Risk Intelligence for Critical Himalayan Infrastructure",
+    "email": "xsxkarki@gmail.com",
+    "location": "BASE: IOE PULCHOWK",
+    "github": "https://github.com/wxb-sly"
+  },
+  "projects": [
+    {
+      "id": "PROJ_001",
+      "title": "Reservoir Sediment Audit",
+      "category": "STOCHASTIC HYDROLOGY",
+      "description": "Automated pipeline for quantifying reservoir sedimentation liability. Uses USGS data to model long-term asset depreciation and revenue erosion.",
+      "tags": [
+        "HYDRO-OPTIMIZATION",
+        "FINANCIAL-RISK",
+        "CASE-STUDY"
+      ],
+      "status": "Public",
+      "github_link": "https://github.com/wxb-sly/reservoir-sediment-audit"
+    },
+    {
+      "id": "PROJ_002",
+      "title": "Slope Stability Engine",
+      "category": "COMPUTATIONAL GEOTECH",
+      "description": "Probabilistic risk engine translating hydrological data into quantifiable landslide failure probabilities. Calculates Factor of Safety (FoS) distributions based on AGS 2007 Guidelines.",
+      "tags": [
+        "GEO-HAZARDS",
+        "TOOLKIT",
+        "FINANCIAL-RISK"
+      ],
+      "status": "Public",
+      "github_link": "https://github.com/wxb-sly/slope-stability"
+    },
+    {
+      "id": "PROJ_003",
+      "title": "Geospatial Catchment Feasibility",
+      "category": "REMOTE SENSING",
+      "description": "Intelligence engine quantifying runoff yield and access road slope risk. Prevents capital allocation to unbuildable sites using DEM analysis and hydrological modeling.",
+      "tags": [
+        "REMOTE-SENSING",
+        "HYDRO-OPTIMIZATION",
+        "TOOLKIT"
+      ],
+      "status": "Public",
+      "github_link": "https://github.com/wxb-sly/geospatial-catchment-feasibility"
+    },
+    {
+      "id": "PROJ_004",
+      "title": "Satellite Forensics NDVI",
+      "category": "REMOTE SENSING",
+      "description": "Forensic tool using multispectral satellite data (Red/NIR) to detect land use change. Quantifies forest loss percentages to assess catchment degradation risks.",
+      "tags": [
+        "REMOTE-SENSING",
+        "GEO-HAZARDS",
+        "TOOLKIT"
+      ],
+      "status": "Public",
+      "github_link": "https://github.com/wxb-sly/satellite-forensics-ndvi"
+    },
+    {
+      "id": "PROJ_005",
+      "title": "Hydro Dispatch Optimizer",
+      "category": "HYDRO-FINANCE",
+      "description": "Linear programming engine designed to maximize revenue against volatility. Solves for optimal hourly turbine dispatch schedules while enforcing hydraulic continuity constraints.",
+      "tags": [
+        "HYDRO-OPTIMIZATION",
+        "FINANCIAL-RISK",
+        "TOOLKIT"
+      ],
+      "status": "Public",
+      "github_link": "https://github.com/wxb-sly/hydro-dispatch-optimizer"
+    },
+    {
+      "id": "PROJ_006",
+      "title": "TBM ROP Predictor",
+      "category": "INDUSTRIAL AI",
+      "description": "XGBoost-driven predictive engine for Tunnel Boring Machine (TBM) performance. Forecasts Advance Rates (ROP) from geological constraints to quantify schedule risk and prevent capital erosion.",
+      "tags": [
+        "GEO-HAZARDS",
+        "INDUSTRIAL-AI",
+        "CASE-STUDY"
+      ],
+      "status": "Public",
+      "github_link": "https://github.com/wxb-sly/tbm-rop-predictor"
+    },
+    {
+      "id": "PROJ_007",
+      "title": "Hydro-Solar Hedge Algorithm",
+      "category": "HYBRID SYSTEMS",
+      "description": "REDACTED",
+      "tags": [
+        "HYDRO-OPTIMIZATION",
+        "FINANCIAL-RISK",
+        "RESEARCH"
+      ],
+      "status": "Classified",
+      "github_link": "#"
+    },
+    {
+      "id": "PROJ_008",
+      "title": "AICE Structural Health Monitor",
+      "category": "INDUSTRIAL AI",
+      "description": "Implementation of Predictive Maintenance (PedM) and Structural Health Monitoring (SHM) algorithms. Uses time-series anomaly detection on real-world sensor data to predict infrastructure failure.",
+      "tags": [
+        "INDUSTRIAL-AI",
+        "GEO-HAZARDS",
+        "CASE-STUDY"
+      ],
+      "status": "Public",
+      "github_link": "https://github.com/wxb-sly/aice-2026-bc"
+    }
+  ],
+  "experience": []
+}
